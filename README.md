@@ -19,7 +19,7 @@ And last note - plugin doesn't sort posts by title itself, it's only adding brea
 **Allowed constants:**
 
 - `JET_ENGINE_BREAK_ALPHABET_BY_QUERY_ID` - by default `break_alphabet`. Trigger for breaking current listing
-- `JET_ENGINE_BREAK_ALPHABET_OPEN_HTML` - by default `<h4 class="jet-engine-break-listing" style="width:100%; flex: 0 0 100%;">` - opening HTML markup for a letter of the alphabet. Please note - "style="width:100%; flex: 0 0 100%;" is important for multi-column layout
+- `JET_ENGINE_BREAK_ALPHABET_OPEN_HTML` - by default `<h4 class="jet-engine-break-listing" style="width:100%; flex: 0 0 100%;">` - opening HTML markup for a letter of the alphabet. Please note - `"style="width:100%; flex: 0 0 100%;"` is important for multi-column layout
 - `JET_ENGINE_BREAK_ALPHABET_CLOSE_HTML` - by default `</h4>` - closing HTML markup
 - `JET_ENGINE_BREAK_ALPHABET_BY_PROP` - by default `false` - breaks items by current object property. With this option you can break by a letter of the alphabet not only posts listings but also custom queries
 
