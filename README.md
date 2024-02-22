@@ -11,10 +11,10 @@ And last note - plugin doesn't sort posts by title itself, it's only adding brea
 ## Setup
 - Download and install the plugin,
 - Define configuration constants in the end of functions.php file of your active theme,
-- Add 'break_alphabet' into Query ID option of Query builder (maybe changed with configuration constants):
+- Add `break_alphabet` into Query ID option of Query builder (maybe changed with configuration constants):
 
 
-**Note!** If you using Listing Grid in combination with JetSmartFilters, you need to set 'break_alphabet' also as listing ID and filter query ID
+**Note!** If you using Listing Grid in combination with JetSmartFilters, you need to set `break_alphabet` also as listing ID and filter query ID
 
 **Allowed constants:**
 
