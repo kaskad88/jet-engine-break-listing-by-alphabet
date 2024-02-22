@@ -2,7 +2,7 @@
 
 Allow to break single listing grid into sections separated by a letter of the alphabet based on post title. Something like this:
 
-
+<img width="1115" alt="Screenshot at Feb 22 13-11-34" src="https://github.com/kaskad88/jet-engine-break-listing-by-alphabet/assets/14362877/6cd3282e-eaad-4977-b3d0-d0bcec76d6ba">
 
 Plugin works only with Query Builder, so you can break only listings where you get the posts with Query Builder.
 
@@ -12,7 +12,7 @@ And last note - plugin doesn't sort posts by title itself, it's only adding brea
 - Download and install the plugin,
 - Define configuration constants in the end of functions.php file of your active theme,
 - Add `break_alphabet` into Query ID option of Query builder (maybe changed with configuration constants):
-
+<img width="822" alt="Screenshot at Feb 22 13-12-24" src="https://github.com/kaskad88/jet-engine-break-listing-by-alphabet/assets/14362877/f6405d63-5243-4477-8e14-55b3b762ce91">
 
 **Note!** If you using Listing Grid in combination with JetSmartFilters, you need to set `break_alphabet` also as listing ID and filter query ID
 
